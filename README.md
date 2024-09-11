@@ -10,8 +10,7 @@ A graduate of *Gyan Ganga Institute of Technology Sciences*, I am constantly exp
 
 ### About Me 🚀
 
-<img align="right" alt="Megha" src="https://github.com/user-attachments/assets/e778436d-0808-4800-b5b7-210532e50fb0.svg" width="320px" />
-
+<img align="right" alt="SVG" src="https://github.com/user-attachments/assets/e778436d-0808-4800-b5b7-210532e50fb0.svg" width="320px" />
 - 🌐 I’m currently working on complex web applications that integrate various software systems.
 - 💻 Technologies I use include *React.js*, *Spring Boot*, and server-side platforms.
 - 📚 Passionate about solving real-world problems with code.
