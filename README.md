@@ -10,7 +10,10 @@ A graduate of *Gyan Ganga Institute of Technology Sciences*, I am constantly exp
 
 ### About Me 🚀
 
-<img align="right" alt="SVG" src="https://github.com/user-attachments/assets/e778436d-0808-4800-b5b7-210532e50fb0.svg" width="320px" />
+<a href="https://dribbble.com/shots/17188530-Female-working-on-a-computer-Animation-explainer-video/attachments/12288316?mode=media" target="_blank">
+  <img align="right" alt="Girl Working on Computer Animation" src="https://cdn.dribbble.com/users/722835/screenshots/17188530/media/9df8cf01f94aeb4e26d7b7c90eb0a70c.gif" width="320px" />
+</a>
+
 - 🌐 I’m currently working on complex web applications that integrate various software systems.
 - 💻 Technologies I use include *React.js*, *Spring Boot*, and server-side platforms.
 - 📚 Passionate about solving real-world problems with code.
