@@ -1,61 +1,56 @@
-### Hey there 👋<h2> I'm Megha Mishra</h2>
+### Hey there 👋 <h2> I'm Megha Mishra</h2>
 
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=AbhishekTilwar" alt="AbhishekTilwar" /> 
+	<img src="https://komarev.com/ghpvc/?username=Megha-Mishra" alt="Megha-Mishra" /> 
 </p>
 
-"Hi, I'm *Megha Mishra*, I've done my Bachelor's in Computer Engineering with an interest in  Web Development and learning different languages. I loves to combine his passion with software development skills to build new products."
+"Hi, I'm *Megha Mishra*, an Assistant Manager at Jio Platforms. I'm passionate about Full Stack Web Development, with a focus on creating efficient and user-friendly web applications using *React.js*, *Spring Boot*, and server management technologies like *Nginx*, *Tomcat*, and *Apache HTTPd*. I love blending my expertise in web development with my desire to build scalable and connected systems."
 
-Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way. I have been contributing *to make the students well versed with development & programming*.
-I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University. 
-
+A graduate of *Gyan Ganga Institute of Technology Sciences*, I am constantly exploring new opportunities to learn and grow. I'm driven by curiosity, creativity, and a passion for turning ideas into functional solutions. 
 
 ### About Me 🚀
-Here are some ideas to get you started:		
-<img align="right" alt="SVG" src="https://user-images.githubusercontent.com/63442418/227835127-ff0951ce-0de4-4d73-bc3a-5288e86a84c0.svg" width="320px" />
 
+<img align="right" alt="Megha" src="https://github.com/user-attachments/assets/e778436d-0808-4800-b5b7-210532e50fb0.svg" width="320px" />
 
-- 📚 I’m currently started working on few new projects.
-- 📈 Highly passionate to convert ideas into code 🤓.
-- 🔭 I’m currently involved in Competitive Programming.
-- 🤓 I have worked on some android apps projects.
-- 🎯 2024-25 Goles : 🌐 Proect Management, 
+- 🌐 I’m currently working on complex web applications that integrate various software systems.
+- 💻 Technologies I use include *React.js*, *Spring Boot*, and server-side platforms.
+- 📚 Passionate about solving real-world problems with code.
+- 🎯 2024-25 Goals: Expand my skill set in *Full Stack Web Development*.
 
-<h2 align="center">Connect Me !! 🤝</h2> 
+<h2 align="center">Connect with Me! 🤝</h2>
 
 <p align="center">
-<a href="https://github.com/AbhishekTilwar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/Megha-Mishra" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/abhishek-tilwar/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/megha-mishra26/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/AbhishekTilwar" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:abhishektilwar@gmail.com">
+<a href="mailto:meghamish26@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p> 
+</a>
+</p>
 
+---
 
-## 👯 Communities
-* Google DSC Lead @Google Developers
-* Google Cloud Facilitator @ Google Cloud
-* President @ CodeChef SITS Chapter
-* Influncer @ Google Crowdsource
-* Android Educator
+## 👯 Communities & Roles
+
+* Assistant Manager @ Jio Platforms Limited
+* Cloud & Web Development Enthusiast
+* Web Application Developer (React.js, Spring Boot, Nginx)
+
 <br>
 
-<h1 align="center">Github Stats</h1>
- <div align="center" >
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=AbhishekTilwar&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTilwar&layout=compact">
+<h1 align="center">GitHub Stats</h1>
+<div align="center" >
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Megha-Mishra&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-Mishra&layout=compact">
 </div> 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTilwar&)"><img src="https://activity-graph.herokuapp.com/graph?username=AbhishekTilwar&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Megha-Mishra"><img src="https://activity-graph.herokuapp.com/graph?username=Megha-Mishra&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
+</div>
 
-
-
+---
 
 <p align="center">
-<h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/AbhishekTilwar?tab=repositories"> repositories!</a></h4>
+<h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/Megha-Mishra?tab=repositories"> repositories!</a></h4>
 </p>
