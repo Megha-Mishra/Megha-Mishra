@@ -1,75 +1,96 @@
-👋 Hey there! <h2> I'm Megha Mishra</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Megha-Mishra" alt="Megha-Mishra" /> </p>
+<h1 align="center">Hi 👋, I'm Megha Mishra</h1>
+<h3 align="center">Frontend Developer (React) | Full Stack Enthusiast | Problem Solver</h3>
 
-✨ Frontend Developer (React) | Full Stack Enthusiast | Problem Solver
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=3F8CFF&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React.js;Building+Scalable+Web+Applications;Passionate+about+UI+%26+Web+Technologies;Always+Learning+New+Things" />
+</p>
 
-Hi, I'm Megha Mishra, a passionate Frontend Developer specializing in React.js, currently building scalable and high-performance web applications at Jio Platforms.
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Megha-Mishra&label=Profile%20Views&color=blue&style=flat" alt="Megha-Mishra" /> 
+</p>
 
-I enjoy crafting clean, intuitive, and efficient user interfaces while working closely with backend systems powered by Spring Boot and enterprise servers like Nginx, Tomcat, and Apache HTTPd.
+---
 
-My focus is on transforming complex technical problems into simple, elegant, and user-friendly digital experiences.
+## 🚀 About Me
 
-🚀 About Me
-<a href="https://dribbble.com/shots/17188530-Female-working-on-a-computer-Animation-explainer-video/attachments/12288316?mode=media" target="_blank"> <img align="right" alt="Girl Working on Computer Animation" src="https://cdn.dribbble.com/users/722835/screenshots/17188530/media/9df8cf01f94aeb4e26d7b7c90eb0a70c.gif" width="320px" /> </a>
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/722835/screenshots/17188530/media/9df8cf01f94aeb4e26d7b7c90eb0a70c.gif">
 
-💻 Frontend Developer focused on React.js
+💻 I'm a **Frontend Developer specializing in React.js**, currently building scalable web applications.  
 
-🌐 Building scalable web applications & dashboards
+⚡ I enjoy creating **clean, interactive, and user-friendly interfaces** that solve real-world problems.
 
-⚡ Experience with React, Spring Boot, REST APIs
+🔧 I also work with **backend systems and enterprise servers** including Spring Boot, Nginx, Tomcat, and Apache.
 
-🔧 Working with Nginx, Tomcat, Apache HTTPd
+🎯 **Goal:** Continuously improve my frontend architecture skills and build impactful products.
 
-🎨 Love designing clean and interactive UI
+---
 
-📚 Always learning and exploring new technologies
+## 🛠 Tech Stack
 
-🎯 2025 Goal: Master advanced frontend architecture & performance optimization
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux" />
+</p>
 
-🛠 Tech Stack
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
-Frontend
+### Servers & Middleware
+<p>
+<img src="https://skillicons.dev/icons?i=nginx" />
+</p>
 
-React.js
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-JavaScript (ES6+)
+---
 
-HTML5 & CSS3
+## 🌟 What I Work On
 
-Tailwind CSS
+✨ Building **enterprise web dashboards**  
+✨ Developing **React based UI systems**  
+✨ Integrating **REST APIs & backend services**  
+✨ Working with **server technologies & middleware**  
 
-Material UI / Ant Design
+---
 
-Backend
+## 🤝 Connect With Me
 
-Spring Boot
+<p align="center">
 
-REST APIs
+<a href="https://github.com/Megha-Mishra">
+<img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Server & Middleware
+<a href="https://www.linkedin.com/in/megha-mishra26/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Nginx
+<a href="mailto:meghamish26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Apache HTTPd
+</p>
 
-Tomcat
+---
 
-Tools
+# 📊 GitHub Stats
 
-Git & GitHub
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Megha-Mishra&show_icons=true&theme=tokyonight" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-Mishra&layout=compact&theme=tokyonight" width="40%">
+</p>
 
-Redux
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Megha-Mishra&theme=tokyonight">
+</p>
 
-WebSockets
+---
 
-<h2 align="center">🤝 Connect with Me</h2> <p align="center"> <a href="https://github.com/Megha-Mishra" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/megha-mishra26/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:meghamish26@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-👩‍💻 Communities & Roles
-
-Frontend Developer (React)
-
-Cloud & Web Development Enthusiast
-
-Full Stack Web Application Developer
-
-<h1 align="center">📊 GitHub Stats</h1> <div align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Megha-Mishra&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-Mishra&layout=compact"> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Megha-Mishra"> <img src="https://activity-graph.herokuapp.com/graph?username=Megha-Mishra&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"> </div>
-<p align="center"> <h4 align="center">⭐ Show some love by starring my <a href="https://github.com/Megha-Mishra?tab=repositories">repositories</a>!</h4> </p>
+<p align="center">
+⭐ <b>If you like my work, consider starring my repositories!</b>
+</p>
